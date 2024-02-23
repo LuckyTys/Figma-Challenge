@@ -2,3 +2,13 @@
     --blueblack-color: #231A36;
     --white-color: #FFFFFF;
 }
+*,
+*::after,
+*::before {
+    box-sizing: border-box
+};
+
+body{
+    margin: 0;
+    font-family: "Poppins",sans-serif;
+}
