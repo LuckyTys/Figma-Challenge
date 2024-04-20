@@ -102,12 +102,16 @@ nav{
     width: 100%;
     align-items: center;
     justify-content: space-between;
-    padding-top: 466px;
+    padding-top: 383px;
+    position: relative;
   }
   /*company logos*/
   .logos{
-    display:none
+      position: absolute;
+      left: -5%;
+      top: 817px;
   }
+  
 
   .story-section .left h1{
     width: 571px;
@@ -117,7 +121,7 @@ nav{
     margin-bottom: 12px;
     
 }
-.story-section .left p{
+.story-section .left p {
     color: #425466;
     font-family: "Inter", sans-serif;
     font-size: 16px;
@@ -125,9 +129,14 @@ nav{
     line-height: 30px; 
     width: 490px;
     height: 58px;
-    margin-top: 10px;
+    margin-top: 10px; 
+}
+
+.story-section .right img{
+    height: 562px;
     
 }
+
 
 
 
