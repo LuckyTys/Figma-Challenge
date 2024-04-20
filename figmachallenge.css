@@ -116,11 +116,10 @@ nav{
     font-size: 94px;
     
 }
- .story-section .left p{
+.story-section .left p{
     color: #425466;
     font-family: "Inter", sans-serif;
     font-size: 16px;
-    font-style: normal;
     font-weight: 800;
     line-height: 30px; 
  }
