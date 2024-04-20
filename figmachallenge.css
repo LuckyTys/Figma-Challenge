@@ -1,6 +1,9 @@
 :root {
     --blueblack-color: #231A36;
     --white-color: #FFFFFF;
+    --darkwhite-color: rgba(255, 255, 255, 0.20);
+
+    ;
 }
 *,
 *::after,
@@ -12,3 +15,59 @@ body{
     margin: 0;
     font-family: "Poppins",sans-serif;
 }
+.wrapper{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+/*bottons*/
+.btn {
+    border-radius: 26px;
+    width: 202px;
+    height: 52px;
+    display: inline-block;
+    color: var(--white-color);
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 500;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    padding: 10px 20px;
+    position: relative;
+}
+.btn.dark{
+    background: var(--blueblack-color);
+}
+.btn.light{
+    background: rgba(126, 144, 165, 0.089);
+}
+.btn.icon::after{
+    content: url(arrow-right-2-16px\ 1.svg);
+    position:absolute;
+    top: 50%;
+    right:32px;
+    transform: translateY(-50%);
+}
+.btn.icon{
+    padding-right: 60px;
+}
+
+/*header*/
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+ nav .logo{
+    color: #FFF;
+    font-family: "Lekton",sans-serif;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    letter-spacing: -1.36px;
+ }
+
