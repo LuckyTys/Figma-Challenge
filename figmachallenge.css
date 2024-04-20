@@ -59,12 +59,11 @@ body{
 /*header*/
 
 header {
-    
-    background: url(gradient.svg) center/cover; 
-    width: 100vw; 
-    height: 100vh;
-    background-repeat: no-repeat;
-    
+background: url(gradient.svg);
+height: 479px;
+width: 100%;
+
+
 }
 
 
@@ -103,6 +102,7 @@ nav{
     width: 100%;
     align-items: center;
     justify-content: space-between;
+    padding-top: 466px;
   }
   /*company logos*/
   .logos{
@@ -114,6 +114,7 @@ nav{
     color:  #3d1d0f ;
     font-family: "Poppins", sans-serif;
     font-size: 94px;
+    margin-bottom: 12px;
     
 }
 .story-section .left p{
@@ -122,7 +123,11 @@ nav{
     font-size: 16px;
     font-weight: 800;
     line-height: 30px; 
- }
+    width: 490px;
+    height: 58px;
+    margin-top: 10px;
+    
+}
 
 
 
