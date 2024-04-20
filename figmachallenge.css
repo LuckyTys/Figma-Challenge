@@ -20,6 +20,7 @@ body{
     margin: 0 auto;
 }
 
+
 /*bottons*/
 .btn {
     border-radius: 26px;
@@ -55,19 +56,5 @@ body{
     padding-right: 60px;
 }
 
-/*header*/
 
-nav{
-    display: flex;
-    justify-content: space-between;
-}
- nav .logo{
-    color: #FFF;
-    font-family: "Lekton",sans-serif;
-    font-size: 34px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 35px;
-    letter-spacing: -1.36px;
- }
 
