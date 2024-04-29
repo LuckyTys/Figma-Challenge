@@ -61,3 +61,20 @@ nav ul{
     right:262px ;
     transform: translateY(-50%);
  }
+ .btn {
+    border-radius: 26px;
+    width: 202px;
+    height: 52px;
+    display: inline-block;
+    color: var(--white-color);
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 500;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    padding: 10px 20px;
+    position: relative;   
+ }
