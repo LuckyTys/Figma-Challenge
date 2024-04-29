@@ -1,0 +1,28 @@
+:root {
+    --blueblack-color: #231A36;
+    --white-color: #FFFFFF;
+    --darkwhite-color: rgba(255, 255, 255, 0.20);
+
+    ;
+}
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+body{
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    width: 100%;
+    height: auto;
+}
+.header-1 {
+    width: 100%;
+    background: url(gradient.svg);
+    height: 44.5vh;
+    flex-shrink: 0;
+}
+
