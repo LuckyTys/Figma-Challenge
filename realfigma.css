@@ -40,3 +40,11 @@ nav .logo{
     letter-spacing: -1.36px; 
     margin-left: 13%;  
 }
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 44px;
+    list-style: none;
+    margin: 0;
+    position: relative;
+  }
