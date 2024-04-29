@@ -25,4 +25,10 @@ header {
     height: 480.3px;
     flex-shrink: 0;
 }
-
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1120px;
+    padding-top: 30px;
+}
