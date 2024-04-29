@@ -155,5 +155,20 @@ nav ul{
     line-height: 28px; /* 175% */
     letter-spacing: 0.16px;
     }
+    .title {
+        color: #B33CDB;
+        font-family: "Inter",sans-serif;
+        font-size: 14px;
+        font-style: normal;
+        
+        line-height: 18px; /* 128.571% */
+        letter-spacing: 2.8px;
+        text-transform: uppercase;
+        }
+        .solution {
+            margin-left: 20%;
+            margin-top: 10%;
+        }
+        
     
 
