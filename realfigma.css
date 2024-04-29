@@ -133,6 +133,27 @@ nav ul{
     left: 10%;
     padding: 1px;
 }
+/*Feature*/
 
-
+.wraper h2{
+    color: #1F1F26;
+    text-align: center;
+    font-family: "Poppins",sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    
+    line-height: normal;
+    margin-top: 15%;
+    }
+    .wraper p{
+    color: #426666;
+    text-align: center;
+    font-family: "Inter",sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    
+    line-height: 28px; /* 175% */
+    letter-spacing: 0.16px;
+    }
+    
 
