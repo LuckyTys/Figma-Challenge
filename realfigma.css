@@ -4,6 +4,7 @@
     --darkwhite-color: rgba(255, 255, 255, 0.20);
     --pink-color: #DE2879;
     --bluedarkwhite: #425466;
+    --grey: #7B9292;
     ;
 }
 *,
@@ -271,8 +272,6 @@ nav ul{
         text-align: center;
         font-family: "Poppins",sans-serif;
         font-size: 40px;
-        font-style: normal;
-        font-weight: 600;
         line-height: 50px; 
         }
     .social p {
@@ -280,11 +279,80 @@ nav ul{
         text-align: center;
         font-family: "Inter",sans-serif;
         font-size: 16px;
-        font-style: normal;
-        font-weight: 800;
         line-height: 28px; /* 175% */
         letter-spacing: 0.16px;
         }
+    .number {
+            margin-left: auto;
+            margin-top: 5%;
+        }
+    .number-text1 h3{
+        color: #FFF;
+        font-family: "Poppins",sans-serif;
+        font-size: 40px;
+        line-height: 40px;
+        margin-left: -50%;
+    }
+    .number-text1 p{
+        color: #7B9292;
+        font-family: "Inter",sans-serif;
+        font-size: 14px;
+        margin-left: -50%;
+        line-height: 14px;
+        }
+        
+        /*  */
+    .number-text2 h3{
+            color: #FFF;
+            font-family: "Poppins",sans-serif;
+            font-size: 40px;
+            line-height: 40px;
+            margin-left: -15%;
+            margin-top: -8%;
+            }
+    .number-text2 p{
+            color: #7B9292;
+            font-family: "Inter",sans-serif;
+            font-size: 14px;
+            margin-left: -15%;
+            line-height: 14px;
+            }
+        
+            /*  */
+    .number-text3 h3{
+                color: #FFF;
+                font-family: "Poppins",sans-serif;
+                font-size: 40px;
+                line-height: 40px;
+                margin-left: 20%;
+                margin-top: -8%;
+                }
+    .number-text3 p{
+                color: #7B9292;
+                font-family: "Inter",sans-serif;
+                font-size: 14px;
+                margin-left: 20%;
+                line-height: 14px;
+        
+                }
+                /*  */
+        
+    .number-text4 h3{
+                    color: #FFF;
+                    font-family: "Poppins",sans-serif;
+                    font-size: 40px;
+                    line-height: 40px;
+                    margin-left: 50%;
+                    margin-top: -8%;
+                    }
+    .number-text4 p{
+                    color: #7B9292;
+                    font-family: "Inter",sans-serif;
+                    font-size: 14px;    
+                    margin-left: 50%;
+                    line-height: 14px;
+                    } 
+        
   
         
 
