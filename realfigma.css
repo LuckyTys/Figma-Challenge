@@ -201,6 +201,39 @@ nav ul{
     margin-top: -3%;
     margin-left: 8%;
 }
+.influencer2{
+    margin-left: 60%;
+    margin-top: -24%;
+    width: 30%;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: -8px 30px 70px -20px rgba(82, 82, 82, 0.10);
+    }
+    /*feature section*/
+.wrappers{
+        margin-top: 10%;
+        margin-left: 20%;
+        width: auto;
+        height: auto;
+    }
+.wrappers .feature p{
+            margin-left: 50%;
+            margin-top: -10%;
+        }
+.icons2 {
+            width: 16px;
+            height: 16px;
+            cursor: pointer;
+            margin-top: -3%;
+            margin-left: 60%;
+            }
+        /*  */
+.wrapper3 {
+        height: auto;
+        background: #FFF;
+        }
+        
+    
     
             
         
