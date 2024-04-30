@@ -352,6 +352,49 @@ nav ul{
                     margin-left: 50%;
                     line-height: 14px;
                     } 
+    
+    /*service section*/
+
+    .wrapper4{
+        height: auto;
+    }
+.solutions h3{
+color: #1F1F26;
+text-align: center;
+font-family: Poppins;
+font-size: 40px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+    }
+.solutions p{
+color: #426666;
+text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 800;
+line-height: 28px; /* 175% */
+letter-spacing: 0.16px;
+}
+/* .solutions .men {
+margin-left: 5%;
+margin-top: 7%;
+} */
+.man img{
+border-radius: 2px 2px 0px 0px;
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+margin-left: 10%;
+}
+
+.icons1 {
+border-radius: 0px 0px 2px 2px;
+background: #FFF;
+box-shadow: 0px 40px 100px -30px rgba(0, 0, 0, 0.04);
+margin-top: -9%;
+margin-left: 4%;
+}
+
         
   
         
