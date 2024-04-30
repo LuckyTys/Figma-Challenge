@@ -2,7 +2,8 @@
     --blueblack-color: #231A36;
     --white-color: #FFFFFF;
     --darkwhite-color: rgba(255, 255, 255, 0.20);
-
+    --pink-color: #DE2879;
+    --bluedarkwhite: #425466;
     ;
 }
 *,
@@ -233,6 +234,61 @@ nav ul{
         background: #FFF;
         }
         
+    
+    /*service section*/
+    .service {
+        display: inline-flex;
+        padding: 25px 350.28px 70.072px 370px;
+        justify-content: flex-end;
+        align-items: center;
+        margin-top: 10%;
+        }
+    .service2 {
+            margin-left: 60%;
+            margin-top: -25%;
+        }
+    .wrapper3 .service h3 {
+        color: #1F1F26;
+        font-family: "Poppins",sans-serif;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 40px; /* 133.333% */
+        }
+  
+        
+        
+        
+        
+    /*.social{
+        background: rgba(35, 26, 54, 1);
+        height: 70vh;
+        }
+    /*.social h3{
+        color: #FFF;
+        text-align: center;
+        font-family: Poppins;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 50px; 
+        }
+    .social p {
+        color: #7B9292;
+        text-align: center;
+        font-family: Inter;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: 28px; /* 175% */
+        letter-spacing: 0.16px;
+        }
+   /* .number {
+            margin-left: auto;
+            margin-top: 5%;
+        }
+        
+
     
     
             
