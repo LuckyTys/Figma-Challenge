@@ -184,6 +184,24 @@ nav ul{
             line-height: 28px; /* 175% */
             letter-spacing: 0.16px;
 }
+.lear-more {
+    color: #42424A;
+    text-align: center;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    
+}
+    .icons {
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+    margin-top: -3%;
+    margin-left: 8%;
+}
+    
             
         
     
