@@ -21,3 +21,9 @@ header {
     width: 100%;
     height: auto;
 }
+.header-1 {
+    width: 100%;
+    background: url(gradient.svg);
+    height: 480.3px;
+    flex-shrink: 0;
+}
