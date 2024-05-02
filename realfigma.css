@@ -100,3 +100,38 @@ nav ul{
     padding-right: 60px;
 }
  /*end of the botton styling*/
+
+ .left1 {
+    margin-left: 10%;
+    margin-top: -27%;
+}
+.left {
+    margin-left: 12%;
+    margin-top: -2%;
+}
+.left1 h1{
+    font-size: 94px;
+    color:  rgba(83, 32, 15, 0.82);
+    font-family: "Poppins",sans-serif ;
+
+}
+.left p{
+    color: #425466;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 30px;
+}
+ .right img{
+    margin-top: -15%;
+   margin-left: 70%;
+   width: 30%;
+   
+}
+.logos{
+    position: absolute;
+    left: 10%;
+    padding: 1px;
+}
+ /*styled the story section*/
