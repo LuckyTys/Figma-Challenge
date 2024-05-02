@@ -135,3 +135,80 @@ nav ul{
     padding: 1px;
 }
  /*styled the story section*/
+
+ .wraper h2{
+    color: #1F1F26;
+    text-align: center;
+    font-family: "Poppins",sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    
+    line-height: normal;
+    margin-top: 15%;
+}
+.wraper p{
+    color: #426666;
+    text-align: center;
+    font-family: "Inter",sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    
+    line-height: 28px; /* 175% */
+    letter-spacing: 0.16px;
+}
+.title {
+        color: #B33CDB;
+        font-family: "Inter",sans-serif;
+        font-size: 14px;
+        font-style: normal;
+        
+        line-height: 18px; /* 128.571% */
+        letter-spacing: 2.8px;
+        text-transform: uppercase;
+}
+.solution {
+            margin-left: 20%;
+            margin-top: 10%;
+}
+.influencer1 h3{
+            color: #1F1F26;
+            font-family: "Poppins",sans-serif;
+            font-size: 30px;
+            line-height: 40px;
+}
+.influencer1 span {
+            color: #426666;
+            font-family: "Inter",sans-serif;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 800;
+            line-height: 28px; /* 175% */
+            letter-spacing: 0.16px;
+}
+.lear-more {
+    color: #42424A;
+    text-align: center;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    
+}
+    .icons {
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+    margin-top: -3%;
+    margin-left: 8%;
+}
+.influencer2{
+    margin-left: 60%;
+    margin-top: -24%;
+    width: 30%;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: -8px 30px 70px -20px rgba(82, 82, 82, 0.10);
+    }
+
+/*end of feature section*/
