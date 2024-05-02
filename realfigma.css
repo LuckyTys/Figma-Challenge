@@ -236,3 +236,32 @@ nav ul{
     background: #FFF;
     }
     
+    .service {
+        display: inline-flex;
+        padding: 25px 350.28px 70.072px 370px;
+        justify-content: flex-end;
+        align-items: center;
+        margin-top: 10%;
+        }
+    .service2 {
+            margin-left: 60%;
+            margin-top: -25%;
+        }
+    .wrapper3 .service h3 {
+        color: #1F1F26;
+        font-family: "Poppins",sans-serif;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 40px; /* 133.333% */
+        }
+  
+        
+        
+        
+        
+    .social{
+        background: rgba(35, 26, 54, 1);
+        height: 70vh;
+        }
+/*end of service section*/
