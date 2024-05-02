@@ -354,4 +354,35 @@ nav ul{
                 } 
  /*end of rectangle section*/
 
- 
+ .wrapper4{
+    height: auto;
+}
+.solutions h3{
+color: #1F1F26;
+text-align: center;
+font-family: "Poppins",sans-serif;
+font-size: 40px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.solutions p{
+color: #426666;
+text-align: center;
+font-family: "Inter",sans-serif;
+font-size: 16px;
+font-style: normal;
+
+line-height: 28px; /* 175% */
+letter-spacing: 0.16px;
+}
+/* .solutions .men {
+margin-left: 5%;
+margin-top: 7%;
+} */
+.man img{
+border-radius: 2px 2px 0px 0px;
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+margin-left: 10%;
+}
+
