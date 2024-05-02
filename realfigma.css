@@ -63,3 +63,40 @@ nav ul{
     right:262px ;
     transform: translateY(-50%);
 }
+
+/*end of the navigation bar*/
+
+.btn {
+    border-radius: 26px;
+    width: 202px;
+    height: 52px;
+    display: inline-block;
+    color: var(--white-color);
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 500;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    padding: 10px 20px;
+    position: relative;   
+ }
+.btn.dark{
+    background: var(--blueblack-color);
+}
+.btn.light{
+    background: rgba(59, 96, 139, 0.089);
+}
+.btn.icon::after{
+    content: url(arrow-right-2-16px\ 1.svg);
+    position:absolute;
+    top: 50%;
+    right:32px;
+    transform: translateY(-50%);
+}
+.btn.icon{
+    padding-right: 60px;
+}
+ /*end of the botton styling*/
