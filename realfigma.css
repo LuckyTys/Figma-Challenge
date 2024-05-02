@@ -7,3 +7,8 @@
     --grey: #7B9292;
     ;
 }
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
