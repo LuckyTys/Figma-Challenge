@@ -212,3 +212,27 @@ nav ul{
     }
 
 /*end of feature section*/
+
+.wrappers{
+    margin-top: 10%;
+    margin-left: 20%;
+    width: auto;
+    height: auto;
+}
+.wrappers .feature p{
+        margin-left: 50%;
+        margin-top: -10%;
+    }
+.icons2 {
+        width: 16px;
+        height: 16px;
+        cursor: pointer;
+        margin-top: -3%;
+        margin-left: 60%;
+        }
+    /*  */
+.wrapper3 {
+    height: auto;
+    background: #FFF;
+    }
+    
