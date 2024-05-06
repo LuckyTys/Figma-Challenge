@@ -405,4 +405,117 @@ letter-spacing: 0.16px;
     margin-top: -7%;
 }
 
+/*happy section*/
+
+.happy h3{
+    color: #1F1F26;
+margin-top: 5%;
+text-align: center;
+font-family: "Poppins",sans-serif;
+line-height: normal;
+font-size: 32px;
+
+}
+.happy p {
+color: #6D6D6D;
+text-align: center;
+font-family: "Inter",sans-serif;
+font-size: 16px;
+line-height: 28px; /* 175% */
+letter-spacing: 0.16px;
+}
+
+.left img{
+    width: 122px;
+    height: 122px;
+    margin-top: 7%;
+    }
+    .div .text{
+    color: #6D6D6D;
+    font-family: "Inter",sans-serif;
+    font-size: 22px;
+    font-style: italic;
+    line-height: 36px;
+    width: 30%;
+    margin-top: -2%;
+    text-align: initial;
+    margin-left: 11%
+    }
+    
+    .rohwan h4{
+        margin-left: 11%;
+    
+    }
+    .rohwan span {
+        padding-left: 11%;
+        font-size: 14px;
+        color: #6D6D6D;
+    }
+    .imgs {
+       content: url(arrow-right-2-16px\ 1.svg);
+    }
+    .rights img{
+        width: 300px;
+        height: 45vh;
+        margin-top: -35%;
+        margin-left: 60%;
+    }
+
+    /*footer*/
+
+    footer {
+        background: url(bottomgradient.svg) no-repeat;
+        margin-left: 20%;
+        height: 40vh;
+    }
+    footer h2 {
+        color: #fff;
+        margin-left: 25%;
+        font-size: 34px;
+        padding-top: 20px;
+        font-family: "Poppins", sans-serif;
+    }
+    footer span{
+       margin-left: 20%;
+       color: #fff
+    }
+    
+    footer span p{
+       margin-left: 30%;
+    }
+    .demo {
+        margin-left: 30%;
+        padding: 20px;
+    
+    }
+    .last-footer .logo{
+       color: #000;
+        font-family: "Lekton",sans-serif;
+        font-size: 34px;
+        line-height: 35px;
+        letter-spacing: -1.36px; 
+        margin-left: 20%; 
+        margin-top: 5%;
+    } 
+    .last-footer ul{
+        display: flex;
+        align-items: center;
+        gap: 54px;
+        list-style: none;
+        margin: 0;
+        position: relative;
+        margin-left: 40%;
+        margin-top: -1.5%;
+      }
+      .last-footer ul li a{
+        color: #000;
+        font-family: "Inter",sans-serif;
+        font-size: 16px;
+        text-decoration: none;
+        font-style: bold;
+      }
+      /*footer icons*/
+
+      
+    
 
